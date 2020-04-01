@@ -1,0 +1,49 @@
+﻿html {
+    background-image: url(Fondo/Fondo_Inicio.png);
+    font-family: Arial;
+}
+@font-face {
+    font-family: avengers;
+    src: url(Fuente/AvengersFont.otf);
+}
+body
+{
+   
+}
+.titulo
+{
+    font-family: avengers;
+    text-align: center;
+    font-size: 72px;
+    color: white;
+}
+.titulo2 {
+    font-family: avengers;
+    text-align: center;
+    font-size: 50px;
+    color: white;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: red;
+}
+.tablaCentral{
+    margin:auto;
+    border-collapse:separate;
+    border-spacing:100px 0px;
+}
+footer{
+    margin: 120px 0px 0px 0px;
+}
+.audio {
+    display: block;
+    margin: auto;
+}
+.piePagina
+{
+    text-align: center;
+    font-size: 16px;
+    color: gray;
+}
